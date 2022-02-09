@@ -1,7 +1,7 @@
 pipeline {
   agent any
   triggers {
-    githubPush()
+    githubPullRequest {}
   }
   stages {
     stage('Set build information'){
