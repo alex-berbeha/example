@@ -15,7 +15,7 @@ Release Date:
 Author: 
 =======================================================================
 Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
-
+   
 Contact:
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
